@@ -93,11 +93,11 @@ I'm a **Software Engineering student** passionate about building solid, scalable
 
 ### ⚙️ DevOps / Tooling
 
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx,githubactions,git,github" />
+<img src="https://skillicons.dev/icons?i=docker,githubactions,git,github" />
 
 ### 🛠 Tools
 
-<img src="https://skillicons.dev/icons?i=vscode,figma,postman,jest,cypress,eslint" />
+<img src="https://skillicons.dev/icons?i=vscode,postman,eslint" />
 
 </div>
 
