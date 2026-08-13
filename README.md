@@ -114,6 +114,6 @@ I'm a **Software Engineering student** passionate about building solid, scalable
 
 [![](https://komarev.com/ghpvc/?username=Dhia559&icon=github&color=blueviolet&style=for-the-badge)](https://visitcount.itsvg.in)
 
-<sub>Proudly created with ❤️ using <a href="https://gprm.itsvg.in">GPRM</a></sub>
+<sub>Still Learning ❤️  <a href="https://gprm.itsvg.in">GPRM</a></sub>
 
 </div>
