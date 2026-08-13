@@ -1,8 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Dhia%20Allah%20Bouazra&fontSize=45&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineering%20Student%20%7C%20Backend%20%26%20Full-Stack%20Developer&descAlignY=55&descSize=18" width="100%"/>
+# Hi, I'm Dhia Allah Bouazra 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Building+solid%2C+scalable+systems+%F0%9F%9A%80;Go+%7C+Java+%7C+Next.js+%7C+React+%7C+TypeScript;Currently+learning+AI+Engineering+%26+ML" alt="Typing SVG" />
+### 🎓 Software Engineering Student · Backend & Full-Stack Developer
+
+![Profile Views](https://img.shields.io/badge/dynamic-blue?style=for-the-badge&label=Focus&message=Clean%20%26%20Scalable%20Systems&color=38BDF8)
+![Status](https://img.shields.io/badge/Currently%20Learning-AI%20%26%20ML-A78BFA?style=for-the-badge)
 
 </div>
 
@@ -112,7 +115,5 @@ I'm a **Software Engineering student** passionate about building solid, scalable
 [![](https://komarev.com/ghpvc/?username=Dhia559&icon=github&color=blueviolet&style=for-the-badge)](https://visitcount.itsvg.in)
 
 <sub>Proudly created with ❤️ using <a href="https://gprm.itsvg.in">GPRM</a></sub>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
 </div>
