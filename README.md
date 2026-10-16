@@ -84,9 +84,7 @@ I'm a **Software Engineering student** passionate about building solid, scalable
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres" />
 
-![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT_Auth-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### ⚙️ DevOps / Tooling
